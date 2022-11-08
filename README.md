@@ -30,11 +30,8 @@
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=sheikhshakibhossain&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sheikhshakibhossain&hide=php&theme=tokyonight)
 -->
+
 <div>
-  
-  ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=sheikhshakibhossain&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sheikhshakibhossain&hide=php&theme=tokyonight)
-  
 <a href="https://github-readme-stats.vercel.app/api?username=sheikhshakibhossain&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=sheikhshakibhossain&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
