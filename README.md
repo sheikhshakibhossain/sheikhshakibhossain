@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Application Development and Robot applications...
 - 💞️ I’m looking forward to collaborate on Linux based OS Development...
 
-![](https://visitor-badge.laobi.icu/badge?page_id=sheikhshakibhossain.sheikhshakibhossain) [![Github](https://img.shields.io/github/followers/sheikhshakibhossain?label=Followers&logo=Github)](https://github.com/sheikhshakibhossain)
+![](https://visitor-badge.laobi.icu/badge?page_id=sheikhshakibhossain.sheikhshakibhossain) 
+[![Github](https://img.shields.io/github/followers/sheikhshakibhossain?label=Followers&logo=Github)](https://github.com/sheikhshakibhossain)
 
 
 ## 🧰 Languages and Tools:
@@ -32,9 +33,10 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=sheikhshakibhossain&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=sheikhshakibhossain&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=sheikhshakibhossain&theme=tokyonight" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshakibhossain&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshakibhossain&hide=php&theme=tokyonight" />
 </a>
 </div>
+
