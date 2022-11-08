@@ -23,7 +23,7 @@
 </p>
 <br />
 
-
+<!--
 ## :trophy: My Github Stats:
 
 <!--
@@ -40,4 +40,5 @@
 </a>
 </div>
 
+-->
 
