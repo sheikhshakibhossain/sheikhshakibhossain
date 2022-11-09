@@ -35,8 +35,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=sheikhshakibhossain&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=sheikhshakibhossain&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshakibhossain&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshakibhossain&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshakibhossain&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshakibhossain&theme=tokyonight" />
 </a>
 </div>
 
