@@ -44,6 +44,7 @@
 </div>
 
 
-
+<!--
 ### My Codeforces Stats
+-->
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MrGarbage&theme=radical)](https://codeforces.com/profile/MrGarbage)
