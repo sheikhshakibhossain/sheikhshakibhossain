@@ -25,6 +25,11 @@
 </p>
 <br />
 
+
+### My Codeforces Stats
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MrGarbage&theme=radical)](https://codeforces.com/profile/MrGarbage)
+
+
 ## :trophy: My Github Stats:
 
 <!--
@@ -40,4 +45,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshakibhossain&theme=tokyonight" />
 </a>
 </div>
-
