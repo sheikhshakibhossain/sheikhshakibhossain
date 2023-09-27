@@ -30,16 +30,16 @@
 ## :trophy: My Github Stats:
 
 <!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=sheikhshakibhossain&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sheikhshakibhossain&hide=php&theme=tokyonight)
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=sheikhshakibhossain&count_private=true&show_icons=true&theme=tokyonight&token=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)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sheikhshakibhossain&hide=php&theme=tokyonight&token=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)
 -->
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=sheikhshakibhossain&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=sheikhshakibhossain&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=sheikhshakibhossain&theme=tokyonight&token=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">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=sheikhshakibhossain&theme=tokyonight&token=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" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshakibhossain&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshakibhossain&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshakibhossain&theme=tokyonight&token=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">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshakibhossain&theme=tokyonight&token=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" />
 </a>
 </div>
 
