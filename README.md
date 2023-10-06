@@ -1,5 +1,5 @@
 ### Who am I ?
-Hi, I’m Sheikh Shakib Hossain, a linux enthusiast. Previously, I've worked with Unix/Linux Operating Systems, Linux Automations and Cyber Security. I’m currently working with backend of Robotics applications. I’m looking forward to collaborate on Linux based OS Development.
+Hi, I’m Sheikh Shakib Hossain, a linux enthusiast. Previously, I've worked with Unix/Linux based Operating System Development and Task Automations. Also, I have exprience in Cyber Security. I’m currently working with backend of Robotics applications. I’m looking forward to collaborate on Linux based OS Developments.
 
 
 
