@@ -16,7 +16,7 @@ Hi, I’m Sheikh Shakib Hossain, a linux enthusiast. Previously, I've worked wit
 ###  Tools and Frameworks
 ![ROS](https://img.shields.io/badge/ros-40A15A.svg?style=for-the-badge&logo=ros&logoColor=white)&nbsp;
 ![ROS2](https://img.shields.io/badge/ros2-e66632.svg?style=for-the-badge&logo=ros&logoColor=white)&nbsp;
-![ComputerVision](https://img.shields.io/badge/computervision-40A15A.svg?style=for-the-badge&logo=computer-vision&logoColor=white)&nbsp;
+![opencv](https://img.shields.io/badge/opencv-2deb85.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
